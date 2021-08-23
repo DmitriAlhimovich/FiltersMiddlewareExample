@@ -37,10 +37,13 @@ namespace WebApiWithFilter.Controllers
             .ToArray();
         }
 
+        [MyExceptionFilter]
         [Route("string")]
         [HttpGet]
         public string GetString()
         {
+            throw new Exception("my error");
+
             return JsonSerializer.Serialize(Get());
         }
     }

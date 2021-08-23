@@ -14,3 +14,9 @@ Action executing. Path: /weatherforecast
 Action executed. Path: /weatherforecast at 23.08.2021 11:04:46 
 Action executing. Path: /weatherforecast 
 Action executed. Path: /weatherforecast at 23.08.2021 11:04:46 
+Action executing. Path: /weatherforecast 
+Action executed. Path: /weatherforecast at 23.08.2021 12:20:32 
+Action executing. Path: /weatherforecast 
+Action executed. Path: /weatherforecast at 23.08.2021 12:21:16 
+Action executing. Path: /weatherforecast/string 
+Action executed. Path: /weatherforecast/string at 23.08.2021 12:21:53 
