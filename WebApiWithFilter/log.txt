@@ -1,0 +1,16 @@
+Action executing: Void OnActionExecuting(Microsoft.AspNetCore.Mvc.Filters.ActionExecutingContext), path: /weatherforecast 
+Action executed: Void OnActionExecuted(Microsoft.AspNetCore.Mvc.Filters.ActionExecutedContext), path: /weatherforecast at 23.08.2021 11:03:54 
+Action executing: Void OnActionExecuting(Microsoft.AspNetCore.Mvc.Filters.ActionExecutingContext), path: /weatherforecast 
+Action executed: Void OnActionExecuted(Microsoft.AspNetCore.Mvc.Filters.ActionExecutedContext), path: /weatherforecast at 23.08.2021 11:03:57 
+Action executing: Void OnActionExecuting(Microsoft.AspNetCore.Mvc.Filters.ActionExecutingContext), path: /weatherforecast 
+Action executed: Void OnActionExecuted(Microsoft.AspNetCore.Mvc.Filters.ActionExecutedContext), path: /weatherforecast at 23.08.2021 11:03:57 
+Action executing: Void OnActionExecuting(Microsoft.AspNetCore.Mvc.Filters.ActionExecutingContext), path: /weatherforecast 
+Action executed: Void OnActionExecuted(Microsoft.AspNetCore.Mvc.Filters.ActionExecutedContext), path: /weatherforecast at 23.08.2021 11:03:57 
+Action executing: Void OnActionExecuting(Microsoft.AspNetCore.Mvc.Filters.ActionExecutingContext), path: /weatherforecast 
+Action executed: Void OnActionExecuted(Microsoft.AspNetCore.Mvc.Filters.ActionExecutedContext), path: /weatherforecast at 23.08.2021 11:03:57 
+Action executing. Path: /weatherforecast 
+Action executed. Path: /weatherforecast at 23.08.2021 11:04:39 
+Action executing. Path: /weatherforecast 
+Action executed. Path: /weatherforecast at 23.08.2021 11:04:46 
+Action executing. Path: /weatherforecast 
+Action executed. Path: /weatherforecast at 23.08.2021 11:04:46 
